@@ -1,0 +1,41 @@
+@relation car
+
+@attribute SaleID numeric
+@attribute name numeric
+@attribute regDate numeric
+@attribute model numeric
+@attribute brand numeric
+@attribute bodyType numeric
+@attribute fuelType numeric
+@attribute gearbox numeric
+@attribute power numeric
+@attribute kilometer numeric
+@attribute notRepairedDamage numeric
+@attribute regionCode numeric
+@attribute seller numeric
+@attribute offerType numeric
+@attribute creatDate numeric
+@attribute price numeric
+@attribute v_0 numeric
+@attribute v_1 numeric
+@attribute v_2 numeric
+@attribute v_3 numeric
+@attribute v_4 numeric
+@attribute v_5 numeric
+@attribute v_6 numeric
+@attribute v_7 numeric
+@attribute v_8 numeric
+@attribute v_9 numeric
+@attribute v_10 numeric
+@attribute v_11 numeric
+@attribute v_12 numeric
+@attribute v_13 numeric
+@attribute v_14 numeric
+
+@data
+0,736,20040402,30,6,1,0,0,60,12.5,0,1046,0,0,20160404,1850,43.357796,3.966344,0.050257,2.159744,1.143786,0.235676,0.101988,0.129549,0.022816,0.097462,-2.881803,2.804097,-2.420821,0.795292,0.914762
+1,2262,20030301,40,1,2,0,0,0,15,?,4366,0,0,20160309,3600,45.305273,5.236112,0.137925,1.380657,-1.422165,0.264777,0.121004,0.135731,0.026597,0.020582,-4.900482,2.096338,-1.030483,-1.722674,0.245522
+2,14874,20040403,115,15,1,0,0,163,12.5,0,2806,0,0,20160402,6222,45.978359,4.823792,1.319524,-0.998467,-0.996911,0.25141,0.114912,0.165147,0.062173,0.027075,-4.846749,1.803559,1.56533,-0.832687,-0.229963
+3,71865,19960908,109,10,0,0,1,193,15,0,434,0,0,20160312,2400,45.687478,4.492574,-0.050616,0.8836,-2.228079,0.274293,0.1103,0.121964,0.033395,0,-4.509599,1.28594,-0.501868,-2.438353,-0.478699
+4,111080,20120103,110,5,1,0,0,68,5,0,6977,0,0,20160313,5200,44.383511,2.031433,0.572169,-1.571239,2.246088,0.228036,0.073205,0.09188,0.078819,0.121534,-1.89624,0.910783,0.93111,2.834518,1.923482
+5,137642,20090602,24,10,0,1,0,109,10,0,3690,0,0,20160319,8000,46.323165,-3.229285,0.156615,-1.727217,-0.34569,0.260246,0.000518,0.119838,0.090922,0.048769,1.885526,-2.721943,2.45766,-0.286973,0.206573
